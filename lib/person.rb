@@ -1,5 +1,6 @@
 class Person
-  def job
+
+def job
     @job
 end
 
